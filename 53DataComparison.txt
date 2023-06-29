@@ -1,0 +1,67 @@
+https://stackoverflow.com/questions/19486077/java-fastest-way-to-read-through-text-file-with-2-million-lines
+#In this file we have different time consumption to read file and different Java methods#
+
+https://www.baeldung.com/java-read-lines-large-file
+
+
+https://www.youtube.com/watch?v=a8Y2m9HLNzU  two compare two text file
+
+https://www.happycoders.eu/java/how-to-read-files-easily-and-fast/
+
+=======================Links above are all about text file===================
+https://www.programiz.com/java-programming/examples/count-lines-in-file ,counting the text file
+
+reading the large text file
+counting lines in the text file
+
+delimited file
+==========================================================================
+multi dimensional array to find number of rows
+
+======================================================================
+https://www.youtube.com/watch?v=vOZ80EMEwEk
+to import delimited  text file into excel
+-------------------------------------------
+https://www.youtube.com/watch?v=3tCkzCMqopM
+text to csv
+----------------------------------
+https://www.youtube.com/watch?v=a8Y2m9HLNzU
+how to compare two text file
+-------------------------------------
+https://www.baeldung.com/java-read-lines-large-file
+different methods with 
+----------------------------------
+https://www.youtube.com/watch?v=yRa0dQyLI38
+create pipe delimited files using MS excel
+-----------------------------------------------------------------------------------
+https://crunchify.com/java-saving-and-loading-data-from-a-file-simple-production-ready-utility-for-file-readwrite-operation/
+---------------------------------------------------------------------------------------
+ETL Test Automation Framework
+https://celsiortech.com/etl-data-validation/
+--------------------------------------------------------------------
+AI https://www.elegantthemes.com/blog/wordpress/best-ai-coding-assistant
+https://www.google.com/search?q=data+validation+using+UFT+developer+tool&rlz=1C1GCEU_enIN1042IN1042&oq=data+validation+using+UFT+developer+tool&aqs=chrome..69i57j33i10i160.15092j0j7&sourceid=chrome&ie=UTF-8
+-----------------------------------------------------------------------
+data validation using UFT developer tool
+https://www.google.com/search?q=data+validation+using+UFT+developer+tool&rlz=1C1GCEU_enIN1042IN1042&oq=data+validation+using+UFT+developer+tool&aqs=chrome..69i57j33i10i160.15092j0j7&sourceid=chrome&ie=UTF-8
+--------------------------------------------------------------------------------------
+Java - Scanner : reading line of record separated by Pipe | as delimiter
+https://stackoverflow.com/questions/9177039/java-scanner-reading-line-of-record-separated-by-pipe-as-delimiter
+
+--------------------------------------------------------------------------------
+https://www.automateexcel.com/how-to/convert-save-as-pipe-delimited/
+----------------------------------------------------------------------------------
+To add character to String at specific position
+https://www.baeldung.com/java-add-character-to-string
+------------------------------------------------------------------------------------------------------
+https://www.candidjava.com/tutorial/program-to-search-word-in-a-file/  
+&&&&&&&&
+----------------------------
+https://github.com/ey-advisory-technology-testing/etl-step-definitions
+---------------------------------------------------------------------------------------------------------
+https://github.com/ey-advisory-technology-testing/etl-step-definitions
+https://github.com/ey-advisory-technology-testing/ngtp-training/tree/master/src/test/java/seleniumutils/applicationlayer
+https://github.com/ey-advisory-technology-testing/ngtp-training/tree/master/src/test/java/seleniumutils/applicationlayer
+https://github.com/ey-advisory-technology-testing/etl-step-definitions
+https://stackoverflow.com/questions/33424865/how-to-read-pipe-delimited-line-from-a-file-and-splitting-integers-in-two-diff
+https://stackoverflow.com/questions/9177039/java-scanner-reading-line-of-record-separated-by-pipe-as-delimiter
